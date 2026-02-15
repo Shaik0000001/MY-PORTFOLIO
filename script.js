@@ -1,5 +1,4 @@
 function toggleMode(){
-
 document.body.classList.toggle("light");
 
 let icon=document.getElementById("modeIcon");
